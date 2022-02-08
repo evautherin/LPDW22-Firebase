@@ -11,6 +11,7 @@
 		8FB2179527B26F2100B65D69 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB2179427B26F2100B65D69 /* ContentView.swift */; };
 		8FB2179727B26F2400B65D69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FB2179627B26F2400B65D69 /* Assets.xcassets */; };
 		8FB2179A27B26F2400B65D69 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FB2179927B26F2400B65D69 /* Preview Assets.xcassets */; };
+		8FB217A127B2711900B65D69 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8FB217A027B2711900B65D69 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8FB2179427B26F2100B65D69 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8FB2179627B26F2400B65D69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8FB2179927B26F2400B65D69 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8FB217A027B2711900B65D69 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				8FB2179227B26F2100B65D69 /* FirebaseApp.swift */,
 				8FB2179427B26F2100B65D69 /* ContentView.swift */,
 				8FB2179627B26F2400B65D69 /* Assets.xcassets */,
+				8FB217A027B2711900B65D69 /* GoogleService-Info.plist */,
 				8FB2179827B26F2400B65D69 /* Preview Content */,
 			);
 			path = Firebase;
@@ -127,6 +130,7 @@
 			files = (
 				8FB2179A27B26F2400B65D69 /* Preview Assets.xcassets in Resources */,
 				8FB2179727B26F2400B65D69 /* Assets.xcassets in Resources */,
+				8FB217A127B2711900B65D69 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
